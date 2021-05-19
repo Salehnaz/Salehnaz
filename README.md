@@ -57,4 +57,4 @@
 [twitter]: https://twitter.com/SalehNaz_
 [youtube]: https://youtube.com/
 [instagram]: https://www.instagram.com/salah__c_r_/
-[linkedin]: https://www.linkedin.com/in/saleh-nazimudeen
+[linkedin]: https://www.linkedin.com/in/salehnazimudeen/
