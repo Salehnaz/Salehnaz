@@ -5,7 +5,7 @@
 
 ## I'm a Student , Developer!!
 
-- 🔭 thinks like a hacker
+- 🔭 thinks like a programmer
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other tech enthusiast
 - 🥅 2021 Goals: Contribute more to Open Source projects
