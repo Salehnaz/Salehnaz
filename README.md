@@ -3,13 +3,13 @@
 [![Website](https://img.shields.io/website?label=SalehNaz.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.instagram.com/salah__c_r_/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SalehNaz_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/SalehNaz_)
 
-## I'm a Student , Developer!!
+## I'm a  Developer!!
 
 - 🔭 thinks like a programmer
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other tech enthusiast
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to watch youtube videos only.
+- ⚡ Fun fact:
 
 
 
